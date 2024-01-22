@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-4th year COmputer Engineering Undergraduate student at SDSU
+4th year Computer Engineering Undergraduate student at SDSU
