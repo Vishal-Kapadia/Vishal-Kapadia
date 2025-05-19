@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-4th year Computer Engineering Undergraduate student at SDSU
+Graduated Computer Engineering Undergraduate student from SDSU
+Reach me for employment opportunities at vishalkapadia927@gmail.com
