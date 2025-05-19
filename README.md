@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Graduated Computer Engineering Undergraduate student from SDSU
+Graduated Computer Engineering Undergraduate student from SDSU.
 Reach me for employment opportunities at vishalkapadia927@gmail.com
